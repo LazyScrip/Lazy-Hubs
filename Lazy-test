@@ -1,0 +1,9 @@
+if game.Placeid == 6735572261 then
+local OrionLib - loadstring(game:HttpGet(('https//raw.githubusercontent.com/shlexware/orion/main/source')))()
+local Window = OrionLib:MakeWindow({Name = "Lazy Scripts | Pilgrammed", HidePremium = false, IntroText = "Lazy Scripts Hub", SaveConfig = true, ConfigHolder = "OrionTest"})
+
+
+
+
+
+OrionLib:Init
